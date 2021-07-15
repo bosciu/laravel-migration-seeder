@@ -13,4 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', 'PackageController@index');
+Route::get('/', 'HomepageController@index')->name('home');
+
+Route::get('/viaggi', 'TravelController@index')->name('viaggi');

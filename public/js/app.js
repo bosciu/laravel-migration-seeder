@@ -19436,16 +19436,28 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 
 /***/ }),
 
+/***/ "./resources/sass/partials/_travel.scss":
+/*!**********************************************!*\
+  !*** ./resources/sass/partials/_travel.scss ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
 /***/ 0:
-/*!******************************************************************************************************!*\
-  !*** multi ./resources/js/app.js ./resources/sass/app.scss ./resources/sass/partials/_homepage.scss ***!
-  \******************************************************************************************************/
+/*!*********************************************************************************************************************************************!*\
+  !*** multi ./resources/js/app.js ./resources/sass/app.scss ./resources/sass/partials/_homepage.scss ./resources/sass/partials/_travel.scss ***!
+  \*********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! D:\classe34\laravel-migration-seeder\resources\js\app.js */"./resources/js/app.js");
 __webpack_require__(/*! D:\classe34\laravel-migration-seeder\resources\sass\app.scss */"./resources/sass/app.scss");
-module.exports = __webpack_require__(/*! D:\classe34\laravel-migration-seeder\resources\sass\partials\_homepage.scss */"./resources/sass/partials/_homepage.scss");
+__webpack_require__(/*! D:\classe34\laravel-migration-seeder\resources\sass\partials\_homepage.scss */"./resources/sass/partials/_homepage.scss");
+module.exports = __webpack_require__(/*! D:\classe34\laravel-migration-seeder\resources\sass\partials\_travel.scss */"./resources/sass/partials/_travel.scss");
 
 
 /***/ })
