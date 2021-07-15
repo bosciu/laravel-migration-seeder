@@ -9,6 +9,9 @@ header {
         li {
             display: inline-block;
             margin: 0 20px 20px;
+            a.active {
+                color: red;
+            }
         }
     }
 }

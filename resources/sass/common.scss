@@ -6,9 +6,15 @@
 
 body {
     font-family: "Roboto", sans-serif;
+    caret-color: rgba(0, 0, 0, 0);
 }
 
 .container {
     width: 80%;
     margin: auto;
+}
+
+a {
+    color: unset;
+    text-decoration: unset;
 }

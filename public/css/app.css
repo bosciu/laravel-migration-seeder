@@ -6,11 +6,17 @@
 
 body {
   font-family: "Roboto", sans-serif;
+  caret-color: rgba(0, 0, 0, 0);
 }
 
 .container {
   width: 80%;
   margin: auto;
+}
+
+a {
+  color: unset;
+  text-decoration: unset;
 }
 
 header {
@@ -29,6 +35,10 @@ header ul {
 header ul li {
   display: inline-block;
   margin: 0 20px 20px;
+}
+
+header ul li a.active {
+  color: red;
 }
 
 footer {
