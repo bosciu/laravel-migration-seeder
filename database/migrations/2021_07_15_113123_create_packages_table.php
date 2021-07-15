@@ -20,6 +20,7 @@ class CreatePackagesTable extends Migration
             $table->unsignedSmallInteger('price');
             $table->string('location', 150);
             $table->string('date', 100);
+            $table->string('img_url', 255);
             $table->timestamps();
         });
     }

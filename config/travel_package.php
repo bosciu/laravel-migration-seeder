@@ -11,7 +11,8 @@ return [
         Non fatevi scappare questa favolosa offerta che comprende anche la cancellazione gratuita, per prenotare in tutta tranquillità!",
         "price" => 199,
         "location" => "Golfo Aranci, Sardegna",
-        "date" => "luglio 2021 - settembre 2021"
+        "date" => "luglio 2021 - settembre 2021",
+        "img_url" => "https://image.urlaubspiraten.de/1600/image/upload/v1603286401/mediavault_images/g2rbunksvokeosjevkmj.jpg"
     ],
     [
         "title" => "Estate in Croazia, a Pag! 7 notti in un bellissimo hotel 4* sul mare, con piscina da soli 168€!",
@@ -20,7 +21,8 @@ return [
         Tante date disponibili in Estate, anche a Ferragosto, non aspettate che i prezzi salgano e la disponibilità diminuisca, prenotate subito!",
         "price" => 168,
         "location" => "Isola di Pago",
-        "date" => "luglio 2021 - settembre 2021"
+        "date" => "luglio 2021 - settembre 2021",
+        "img_url" => "https://image.urlaubspiraten.de/1600/image/upload/v1626334916/Impressions%20and%20Other%20Assets/140356041_t23qgz.jpg"
     ],
     [
         "title" => "Weekend a Berlino: volo diretto + 3 notti in centralissimo hotel 4* con area benessere da soli 111€!",
@@ -31,7 +33,8 @@ return [
         Per ulteriore tranquillità, abbiamo scelto voli modificabili senza penali e un hotel la cui prenotazione è completamente cancellabile! Che ne dite, partiamo? Voli e hotel vanno prenotati separatamente.",
         "price" => 111,
         "location" => "Berlino",
-        "date" => "luglio 2021 - settembre 2021"
+        "date" => "luglio 2021 - settembre 2021",
+        "img_url" => "https://image.urlaubspiraten.de/1600/image/upload/v1609164064/Impressions%20and%20Other%20Assets/museums_island_berlin_gzl4tg.jpg"
     ],
     [
         "title" => "ESTATE a Creta in 1/2 PENSIONE! Volo da tante città + 7 notti in hotel 3* vicino al mare da SOLI 163€!",
@@ -42,6 +45,7 @@ return [
         Non perdete questa occasione e assicuratevi a prezzi super oggi, la vostra vacanza al mare per quest'estate!",
         "price" => 163,
         "location" => "Koutouloufári",
-        "date" => "agosto 2021 - settembre 2021"
+        "date" => "agosto 2021 - settembre 2021",
+        "img_url" => "https://image.urlaubspiraten.de/1600/image/upload/v1615973240/mediavault_images/shutterstock_1306866043_rajzlc.jpg"
     ],
 ];

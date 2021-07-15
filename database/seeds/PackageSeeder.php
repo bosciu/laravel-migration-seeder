@@ -20,6 +20,7 @@ class PackageSeeder extends Seeder
             $package->price = $item['price'];
             $package->location = $item['location'];
             $package->date = $item['date'];
+            $package->img_url = $item['img_url'];
             $package->save();
         }
     }
