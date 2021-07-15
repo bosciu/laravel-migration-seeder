@@ -12,11 +12,18 @@ main .container .card {
   width: calc(100% / 2 - 40px);
   margin: 20px;
   background-color: yellowgreen;
-  border: 1px solid black;
+  border-radius: 8px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+main .container .card:hover img {
+  transform: scale(1.2);
 }
 
 main .container .card .img-container {
   font-size: 0;
+  overflow: hidden;
 }
 
 main .container .card .img-container img {
@@ -25,5 +32,6 @@ main .container .card .img-container img {
   -o-object-fit: cover;
      object-fit: cover;
   font-size: -1;
+  transition: all 1s;
 }
 

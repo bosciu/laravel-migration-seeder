@@ -13,7 +13,7 @@
                         <img src="{{$package->img_url}}" alt="">
                     </div>
                     <h1>{{$package->title}}</h1>
-                    <p>{{$package->description}}</p>
+                    <p>{{substr($package->description, 0, 100)}}...</p>
                     <h2>Prezzo: {{$package->price}} €</h2>
                     <h3>Località: {{$package->location}}</h3>
                     <h4>Periodo: {{$package->date}}</h4>
